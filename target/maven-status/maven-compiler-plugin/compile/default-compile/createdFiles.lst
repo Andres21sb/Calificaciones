@@ -1,0 +1,9 @@
+com\progra\calificaciones\resources\JakartaEE10Resource.class
+com\progra\calificaciones\logic\Hotel.class
+com\progra\calificaciones\presentation\calificacion\Controller.class
+com\progra\calificaciones\presentation\hoteles\Model.class
+com\progra\calificaciones\presentation\calificacion\Model.class
+com\progra\calificaciones\logic\Calificacion.class
+com\progra\calificaciones\logic\Service.class
+com\progra\calificaciones\JakartaRestConfiguration.class
+com\progra\calificaciones\presentation\hoteles\Controller.class
